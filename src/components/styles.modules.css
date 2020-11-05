@@ -1,0 +1,23 @@
+.pokecard {
+    width: 350px;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    border: solid 3px silver;
+    margin: 10px;
+}
+
+
+.picker {
+    padding: 40px;
+}
+
+.entry {
+    
+    width: 650px;
+    justify-content: space-between;
+}
+
+.entry tr td {
+    padding: 5px;
+}
